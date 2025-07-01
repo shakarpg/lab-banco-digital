@@ -45,18 +45,3 @@ Encontre a classe Main (ou a classe que contém o método public static void mai
 
 Clique com o botão direito sobre ela e selecione a opção "Run" (Executar).
 
-STRUCTURE Estrutura do Projeto
-/lab-banco-digital
-|-- /src
-|   |-- /main
-|   |   |-- /java
-|   |   |   |-- /br/com/bancodigital
-|   |   |   |   |-- Banco.java
-|   |   |   |   |-- Cliente.java
-|   |   |   |   |-- Conta.java
-|   |   |   |   |-- ContaCorrente.java
-|   |   |   |   |-- ContaPoupanca.java
-|   |   |   |   |-- IConta.java
-|   |   |   |   |-- Main.java
-|-- pom.xml (ou build.gradle)
-|-- README.md
