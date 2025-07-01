@@ -32,6 +32,7 @@ Clone o repositório:
 Bash
 
 git clone https://github.com/shakarpg/lab-banco-digital.git
+
 Abra em sua IDE preferida:
 
 Abra o projeto em uma IDE como IntelliJ IDEA, Eclipse ou VS Code.
