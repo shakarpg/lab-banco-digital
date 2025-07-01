@@ -1,5 +1,3 @@
-// import com.example.Cliente; // Descomente e ajuste se Cliente estiver em um pacote
-
 public abstract class Conta implements IConta {
 
     private static final int AGENCIA_PADRAO = 1;
